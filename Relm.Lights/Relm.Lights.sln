@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Relm.Lights.Demo.Win", "Relm.Lights.Demo.Win\Relm.Lights.Demo.Win.csproj", "{02878B4C-FF59-444A-9F54-AA0FE3444115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relm.Lights", "Relm.Lights\Relm.Lights.csproj", "{23056041-6BCF-4AA5-AC6D-C359A70B348D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02878B4C-FF59-444A-9F54-AA0FE3444115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02878B4C-FF59-444A-9F54-AA0FE3444115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02878B4C-FF59-444A-9F54-AA0FE3444115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02878B4C-FF59-444A-9F54-AA0FE3444115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23056041-6BCF-4AA5-AC6D-C359A70B348D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23056041-6BCF-4AA5-AC6D-C359A70B348D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23056041-6BCF-4AA5-AC6D-C359A70B348D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23056041-6BCF-4AA5-AC6D-C359A70B348D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {670FCE1D-F643-4157-A1AC-A694714BE64D}
+	EndGlobalSection
+EndGlobal
